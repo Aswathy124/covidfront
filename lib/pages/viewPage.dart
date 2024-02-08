@@ -1,3 +1,5 @@
+import 'package:covidapp/model/modelcovid.dart';
+import 'package:covidapp/services/services.dart';
 import 'package:flutter/material.dart';
 
 

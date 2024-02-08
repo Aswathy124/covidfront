@@ -1,4 +1,5 @@
 
+import 'package:covidapp/pages/viewPage.dart';
 import 'package:flutter/material.dart';
 
 import 'addpage.dart';
